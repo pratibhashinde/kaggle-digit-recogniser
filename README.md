@@ -6,4 +6,4 @@ Train and test data files can be downloaded from this link: https://www.kaggle.c
 
 Accuracy achieved on kaggle leaderboard is 0.99.
 
-In order to run the program, you need have numpy, pandas and keras installed.
+In order to run the program, you need to have numpy, pandas and keras installed.
